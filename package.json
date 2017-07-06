@@ -4,7 +4,7 @@
   "description": "RaceTrack data manager module",
   "main": "none",
   "scripts": {
-    "test": "mocha --recursive"
+    "test": "jasmine \"specs/*spec.ts\""
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/NickBaynham/DataManager/issues"
   },
-  "homepage": "https://github.com/NickBaynham/DataManager#readme"
+  "homepage": "https://github.com/NickBaynham/DataManager#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "jasmine-ts": "^0.1.3"
+  }
 }
