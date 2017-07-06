@@ -1,0 +1,23 @@
+{
+  "name": "datamanager",
+  "version": "1.0.0",
+  "description": "RaceTrack data manager module",
+  "main": "none",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBaynham/DataManager.git"
+  },
+  "keywords": [
+    "test",
+    "automation"
+  ],
+  "author": "Nick Baynham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBaynham/DataManager/issues"
+  },
+  "homepage": "https://github.com/NickBaynham/DataManager#readme"
+}
